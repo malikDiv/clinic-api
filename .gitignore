@@ -1,0 +1,9 @@
+node_modules/
+dist/
+coverage/
+docs/
+.env
+*.tsbuildinfo
+uploads/*
+!uploads/doctors/
+!uploads/doctors/.gitkeep
